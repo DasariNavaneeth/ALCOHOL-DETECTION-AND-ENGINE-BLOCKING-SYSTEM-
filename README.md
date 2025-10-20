@@ -1,30 +1,30 @@
 #Alcohol Detection, Engine Blocking, and Automatic Braking System  
 
-##📌 Overview  .md
+##📌 Overview  
 
-This project is a smart vehicle safety system that combines alcohol detection, engine blocking, and automatic braking. It uses an MQ-3 alcohol sensor to detect intoxication and an ultrasonic sensor to sense vehicles or obstacles ahead. Based on the inputs, the system either blocks engine ignition or stops the vehicle using a braking mechanism.  .md
+This project is a smart vehicle safety system that combines alcohol detection, engine blocking, and automatic braking. It uses an MQ-3 alcohol sensor to detect intoxication and an ultrasonic sensor to sense vehicles or obstacles ahead. Based on the inputs, the system either blocks engine ignition or stops the vehicle using a braking mechanism.  
 
-Built using Arduino, relay modules, motor simulation, and buzzers, the prototype demonstrates an effective prevention method against drunk driving and collisions.  .md  
+Built using Arduino, relay modules, motor simulation, and buzzers, the prototype demonstrates an effective prevention method against drunk driving and collisions.  
 
-##🧩 Components Used  .md
+##🧩 Components Used  
 
-MQ-3 Alcohol Sensor  .md
+MQ-3 Alcohol Sensor  
 
-Ultrasonic Sensor (HC-SR04)  .md
+Ultrasonic Sensor (HC-SR04)  
 
-Arduino Uno  .md
+Arduino Uno  
 
-Relay Module  .md
+Relay Module  
 
-BO Motor / Engine Simulation  .md
+BO Motor / Engine Simulation  
 
-Buzzer  .md
+Buzzer  
 
-LED (optional indicator)  .md
+LED (optional indicator)  
 
-Breadboard  .md
+Breadboard  
 
-9V Battery / Power Supply  .md
+9V Battery / Power Supply  
 
 Switch 
 
